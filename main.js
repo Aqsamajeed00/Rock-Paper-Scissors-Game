@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 //if else statement using rock paper scissors game!!
