@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 //if else statement using rock paper scissors game!!
 //logical operators and,or called logical operators
 let player1: string = "Rock";
